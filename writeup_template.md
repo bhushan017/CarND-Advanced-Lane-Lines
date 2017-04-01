@@ -127,5 +127,5 @@ I verified that my perspective transform was working as expected by drawing the 
 
 1. Briefly discuss any problems / issues you faced in your implementation of this project.  Where will your pipeline likely fail?  What could you do to make it more robust?
 
-    The code I have submitted works smoothly on the project_video.mp4 video. But not the challenge and harder challenge videos. I have to tune the values for the perspective transform. The line tracker is very basic and need some improvement to track the curves more smoothly. My current pipeline is likey to fail if the are shape curve on the road. 
+    The code I have submitted works smoothly on the project_video.mp4 video. But not the challenge and harder challenge videos. I have to tune the values for the perspective transform. The line tracker is very basic and need some improvement to track the curves more smoothly. My current pipeline is likey to fail if there are sharp curve on the road. 
 
